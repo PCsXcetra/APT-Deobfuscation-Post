@@ -9,3 +9,4 @@ No Password for this file.
 
 
 The link for the blog post that these files go with.
+https://pcsxcetrasupport3.wordpress.com/2021/12/07/peeling-away-the-layers-of-obfuscation-from-excel-vba-to-dll/

@@ -1,0 +1,4 @@
+[a-zA-Z]+\d+ = "|"$|\r\n  good for top using Notepad++
+
+
+[a-zA-Z]+ = "|[a-zA-Z]+ = [a-zA-Z]+ \+ "|"$|\r\n            good for bottom
